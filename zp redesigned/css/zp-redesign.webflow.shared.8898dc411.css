@@ -2347,6 +2347,15 @@ textarea.w-select {
   color: #fff;
 }
 
+#confirmFormBtn {
+  background-color: var(--bright-emerald);
+}
+
+#confirmFormBtn:hover {
+  background-color: var(--hover-green);
+  color: #fff;
+}
+
 .button-primary:active {
   background-color: #43464d;
 }
