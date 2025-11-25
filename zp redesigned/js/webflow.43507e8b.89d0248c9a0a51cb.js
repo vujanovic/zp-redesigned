@@ -12423,7 +12423,7 @@
                         target: {
                           id: "6910a00ab2f802ddbd1dc754|879d8c48-4550-74a0-6fe1-0c07551803c9",
                         },
-                        zValue: 20,
+                        zValue: 0,
                         xUnit: "DEG",
                         yUnit: "DEG",
                         zUnit: "deg",
@@ -12483,7 +12483,7 @@
                         target: {
                           id: "6910a00ab2f802ddbd1dc754|1bdf67c0-8b7f-da6e-d809-f7c602c1252e",
                         },
-                        zValue: -20,
+                        zValue: 0,
                         xUnit: "DEG",
                         yUnit: "DEG",
                         zUnit: "deg",
